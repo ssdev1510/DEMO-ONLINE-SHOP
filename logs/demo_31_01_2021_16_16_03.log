@@ -1,0 +1,13 @@
+2021-01-31 16:16:06.462 [main] INFO  PageObjects.NavigationPagePO - Success- Navigated to Phones page
+2021-01-31 16:16:11.519 [main] INFO  PageObjects.NavigationPagePO - Successs- Navigated to Laptops page
+2021-01-31 16:16:17.261 [main] INFO  PageObjects.NavigationPagePO - Success- Navigated to Monitors page
+2021-01-31 16:16:22.403 [main] INFO  PageObjects.NavigationPagePO - Successs- Navigated to Laptops page
+2021-01-31 16:16:46.773 [main] INFO  PageObjects.PurchaseLaptopPO - Product- Sony vaio i5 -successfully added
+2021-01-31 16:17:11.197 [main] INFO  PageObjects.PurchaseLaptopPO - Product- Dell i7 8gb -successfully added
+2021-01-31 16:17:17.090 [main] INFO  PageObjects.PurchaseLaptopPO - Product- Dell i7 8gb -successfully deleted
+2021-01-31 16:17:51.844 [main] INFO  PageObjects.PurchaseLaptopPO - Order Details : /n Id: 1902165
+Amount: 790 USD
+Card Number: 41111111111111
+Name: Sahil Singla
+Date: 31/0/2021
+2021-01-31 16:17:51.861 [main] INFO  PageObjects.PurchaseLaptopPO - Success: Actual Amount and Order Amount Matched
