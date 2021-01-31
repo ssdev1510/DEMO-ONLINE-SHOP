@@ -2,7 +2,9 @@
 This repository contains example tests for sample- DEMO ONLINE SHOP:
 
 In order to run the tests execute: mvn clean test
+
 Results in HTML format- /target/html_reports/cucumber-reports 
+
 Logs available in folder-  /logs folder.
 
 Tool-box:
